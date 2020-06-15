@@ -1,0 +1,6 @@
+framework module Pods_NexsysOneTask_NexsysOneTaskUITests {
+  umbrella header "Pods-NexsysOneTask-NexsysOneTaskUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
